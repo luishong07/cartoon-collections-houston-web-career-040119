@@ -28,6 +28,6 @@ end
 def find_the_cheese(contains_cheddar)# code an argument here
   # the array below is here to help
   cheese_types = ["cheddar", "gouda", "camembert"]
-  
+  maybe_cheese
   contains_cheddar.include?()
 end
